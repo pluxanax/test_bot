@@ -1,1 +1,2 @@
-print('Hello, World!')
+def func(a, b):
+    return sum(a, b)
